@@ -1,15 +1,7 @@
-.hideclass {
+.definitions li {
   display: none;
 }
 
-.background {
-  background-color: green;
-}
-
-.showclass {
-
-}
-
-#term1Def {
-  display: inline
+.show {
+  display: inline;
 }
